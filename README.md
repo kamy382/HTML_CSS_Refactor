@@ -8,3 +8,4 @@ This is a basic readme and I will list my changes here:
 5. In the CSS file there were 3 copies of .benefits h3. Removed 2 of them
 6. In the CSS file there were 3 copies of .benefits img. Removed 2 of them
 7. In the CSS file, multiple different classes doing the same thing. Renamed all to consolidated-classes
+8. In the index.html removed unused ids from certain tags. Because they were unused
