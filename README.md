@@ -6,3 +6,5 @@ This is a basic readme and I will list my changes here:
 3. renamed the big image to figure to be more semantic
 4. Changed a few divs to be more semantic (aside, footer and main)
 5. In the CSS file there were 3 copies of .benefits h3. Removed 2 of them
+6. In the CSS file there were 3 copies of .benefits img. Removed 2 of them
+7. In the CSS file, multiple different classes doing the same thing. Renamed all to consolidated-classes
